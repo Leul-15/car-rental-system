@@ -37,7 +37,6 @@ http://localhost:3000/api
       "due_date": "2024-07-07",
       "available": true
     },
-    ...
   ]
   ```
 
