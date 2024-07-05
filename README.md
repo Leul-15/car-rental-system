@@ -10,7 +10,7 @@ http://localhost:3000/api
 
 ### Authentication
 
-- Currently, there is no authentication required for the API endpoints. Future versions may include authentication mechanisms like JWT.
+- Currently, there is no authentication required for the API endpoints. Future versions may include authentication mechanisms like JWT
 
 ---
 
