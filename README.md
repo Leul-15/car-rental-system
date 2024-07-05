@@ -137,7 +137,6 @@ http://localhost:3000/api
       "model": "Camry",
       "available": true
     },
-    ...
   ]
   ```
 
@@ -224,7 +223,6 @@ http://localhost:3000/api
       "email": "user@example.com",
       "mobile": "1234567890"
     },
-    ...
   ]
   ```
 
